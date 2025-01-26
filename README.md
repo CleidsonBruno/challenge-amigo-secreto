@@ -62,4 +62,4 @@ Desenvolvido por **Cleidson Bruno**. Sinta-se à vontade para entrar em contato 
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+Este projeto está sob a licença MIT. 
